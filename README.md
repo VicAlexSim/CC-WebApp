@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://imgur.com/a/TLYRIMN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<blockquote class="imgur-embed-pub" lang="en" data-id="a/TLYRIMN"  ><a href="//imgur.com/a/TLYRIMN">CC-WebApp</a>
 
 GIF created with ...  👉🏿 GIF tool here 
 [ScreenToGif](https://www.screentogif.com/) for Windows
