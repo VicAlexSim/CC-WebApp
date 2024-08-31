@@ -27,6 +27,6 @@ The following additional features are implemented:
 Video Walkthrough
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ueEdW3o"  ><a href="//imgur.com/a/ueEdW3o">CC Webapp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ueEdW3o"  ><a href="//imgur.com/a/ueEdW3o">CC Webapp</a></blockquote>
 
 👉🏿Video Walkthrough
