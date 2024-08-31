@@ -36,7 +36,9 @@ Here's a walkthrough of implemented required features:
 
 GIF created with ...  👉🏿
 [ScreenToGif](https://www.screentogif.com/) for Windows
+
 https://obsproject.com/welcome
+
 https://ezgif.com/video-to-gif
 
 
