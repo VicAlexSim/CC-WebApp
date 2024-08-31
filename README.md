@@ -1,7 +1,7 @@
 # WEB103 Prework - *👉🏿 CC Webapp - Creatorverse*
 Submitted by:  **👉🏿 Victor Sim**
 
-About this web app: **👉🏿 This application enables users to perform CRUD (create, read, update, and delete) actions on their preferred content producers. These producers encompass individuals on platforms such as YouTube, Instagram, TikTok, and others.**
+About this web app: **👉🏿 This application enables users to perform CRUD (create, read, update, and delete) actions on their preferred content producers. These producers encompass individuals on platforms such as YouTube, Instagram, Twitter.**
 
 Time spent:  **👉🏿 6** hours
 
