@@ -1,17 +1,9 @@
-WEB103 Prework -  Creatoverse
-Submitted by:  Victor Sim
+# WEB103 Prework - *👉🏿 CC Webapp - Creatorverse*
+Submitted by:  **👉🏿 Victor Sim**
 
-About this web app:  This application enables users to perform CRUD (create, read, update, and delete) actions on their preferred content producers. These producers encompass individuals on platforms such as Twitch, YouTube, Instagram, TikTok, and others.
+About this web app: **👉🏿 This application enables users to perform CRUD (create, read, update, and delete) actions on their preferred content producers. These producers encompass individuals on platforms such as Twitch, YouTube, Instagram, TikTok, and others.**
 
-Time spent: 6 hours
-
-# WEB103 Prework - *👉🏿 CC Webapp*
-
-Submitted by: **👉🏿Victor Sime**
-
-About this web app: **👉🏿 CC Webapp**
-
-Time spent: **👉🏿 6** hours
+Time spent:  **👉🏿 6** hours
 
 ## Required Features
 
@@ -40,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<blockquote class="imgur-embed-pub" lang="en" data-id="a/ueEdW3o"  ><a href="//imgur.com/a/ueEdW3o">CC Webapp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
@@ -51,11 +43,11 @@ GIF created with ...  👉🏿 GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+I am very new to webdev in all honesty so all parts from making the pages to working with vite and react router are new to me as I am used to next, node, vercel, and firebase. Also, the vercel link has problems with the add creators and I am not sure what's the problem with it. On local host it works fine.
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [👉🏿 2024] [👉🏿 Victor Sim]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
