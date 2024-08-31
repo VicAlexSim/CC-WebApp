@@ -32,9 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='http://imgur.com/a/TLYRIMN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  👉🏿 GIF tool here 
+[ScreenToGif](https://www.screentogif.com/) for Windows
 https://obsproject.com/welcome
 https://ezgif.com/video-to-gif
 
