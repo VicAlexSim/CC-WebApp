@@ -34,8 +34,6 @@ The following optional features are implemented:
 
 [✅] An image of each content creator is shown on their content creator card
 
-The following additional features are implemented:
-
 Video Walkthrough
 Here's a walkthrough of implemented required features:
 
