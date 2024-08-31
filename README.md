@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 👉🏿<a href="//imgur.com/a/TLYRIMN">CC-WebApp</a>
 
-GIF created with ...  👉🏿 GIF tool here 
+GIF created with ...  👉🏿
 [ScreenToGif](https://www.screentogif.com/) for Windows
 https://obsproject.com/welcome
 https://ezgif.com/video-to-gif
